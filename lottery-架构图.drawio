@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T06:34:42.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="7beEG2sYpiPFFrRv8KIF" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T07:07:13.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="M9MDD3F3sGSbre1SldTn" version="21.1.0" type="github">
   <diagram name="Page-1" id="397XtpELp0BZya12UyQO">
-    <mxGraphModel dx="934" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="662" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,6 +275,9 @@
         <mxCell id="pDx0QRTIZcKYgERC59iP-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pDx0QRTIZcKYgERC59iP-115" target="pDx0QRTIZcKYgERC59iP-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eVnzq9drvpG-ZcvxeLdb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="pDx0QRTIZcKYgERC59iP-115" target="eVnzq9drvpG-ZcvxeLdb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pDx0QRTIZcKYgERC59iP-115" value="&lt;pre style=&quot;border-color: var(--border-color); color: rgb(169, 183, 198); font-size: 9.8pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(43, 43, 43); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;querySyrategyRich&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1080" width="260" height="40" as="geometry" />
         </mxCell>
@@ -355,6 +358,15 @@
         </mxCell>
         <mxCell id="eVnzq9drvpG-ZcvxeLdb-2" value="infrastructure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eVnzq9drvpG-ZcvxeLdb-3" value="根据strategyId 查询表startegy和strategy_detail包装结果返回" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1080" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eVnzq9drvpG-ZcvxeLdb-5" value="initRateTuple" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1180" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eVnzq9drvpG-ZcvxeLdb-6" value="initRateTuple" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1290" width="460" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
