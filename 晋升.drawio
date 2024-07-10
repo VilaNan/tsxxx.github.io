@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:21:17.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="hq9l7ToAG4Fstl1tactY" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:22:35.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="gAO17yRTrUgWGJAu3WXH" version="24.6.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -369,6 +369,9 @@
         <mxCell id="aN50xHFRn4SGJ2V7YX0s-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-1" target="aN50xHFRn4SGJ2V7YX0s-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-1" target="aN50xHFRn4SGJ2V7YX0s-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aN50xHFRn4SGJ2V7YX0s-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=0;gradientColor=none;fillStyle=hatch;fillColor=#A9C4EB;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="-2.5" width="200" height="200" as="geometry" />
         </mxCell>
@@ -437,6 +440,16 @@
         </mxCell>
         <mxCell id="aN50xHFRn4SGJ2V7YX0s-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.902;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-35" target="ah2TrB5rAR6fs2cPQ4yY-7">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-42" value="缓存服务" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="72.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.02;entryY=0.797;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-42" target="aN50xHFRn4SGJ2V7YX0s-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="157" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
