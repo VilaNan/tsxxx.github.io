@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-10T07:23:14.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="ypxwa2hcpbGhl8yto-Ks" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-10T07:28:13.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wM-Lwxtv7XTScTh-1jex" version="24.6.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,17 +429,13 @@
             <mxPoint x="490" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aN50xHFRn4SGJ2V7YX0s-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-33" target="aN50xHFRn4SGJ2V7YX0s-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="aN50xHFRn4SGJ2V7YX0s-33" value="排序" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-33" value="通用服务" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="500" y="230" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aN50xHFRn4SGJ2V7YX0s-35" value="权益过滤" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="aN50xHFRn4SGJ2V7YX0s-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.902;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-35" target="ah2TrB5rAR6fs2cPQ4yY-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aN50xHFRn4SGJ2V7YX0s-42" value="缓存服务" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="680" y="72.5" width="100" height="50" as="geometry" />
@@ -450,6 +446,12 @@
               <mxPoint x="730" y="157" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-45" value="权益服务" style="whiteSpace=wrap;html=1;fillColor=#A9C4EB;shadow=0;gradientColor=none;fillStyle=hatch;gradientDirection=radial;rounded=1;glass=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aN50xHFRn4SGJ2V7YX0s-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.872;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aN50xHFRn4SGJ2V7YX0s-45" target="ah2TrB5rAR6fs2cPQ4yY-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
