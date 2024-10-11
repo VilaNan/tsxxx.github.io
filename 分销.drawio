@@ -241,8 +241,8 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-110" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1870" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-112" value="产生的影响：&amp;nbsp; 影响历史分销记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1970" width="200" height="30" as="geometry" />
+        <mxCell id="FmlOayXMHetRYe8K5XlL-112" value="产生的影响：&amp;nbsp; 影响历史分销记录&lt;div&gt;如果换绑的新手机号，也是分销员，有分销订单，容易造成混乱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1965" width="360" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
