@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-19" value="艺龙会会员" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FmlOayXMHetRYe8K5XlL-19" value="艺龙会会员、分销员" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="530" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FmlOayXMHetRYe8K5XlL-21" value="手机号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -137,20 +137,37 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-53" target="FmlOayXMHetRYe8K5XlL-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-53" value="手机号变更" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FmlOayXMHetRYe8K5XlL-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-53" target="FmlOayXMHetRYe8K5XlL-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-53" target="FmlOayXMHetRYe8K5XlL-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="698" />
+              <mxPoint x="330" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-53" value="新手机号是否分销员" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="658" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FmlOayXMHetRYe8K5XlL-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-54" target="FmlOayXMHetRYe8K5XlL-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-54" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FmlOayXMHetRYe8K5XlL-54" value="&lt;font color=&quot;#ff3333&quot;&gt;怎么处理？&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="780" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-56" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="738" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FmlOayXMHetRYe8K5XlL-57" value="基本信息变更" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-61" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="738" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-64" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-67" value="不给分销员修改手机号是否可行？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="770" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
