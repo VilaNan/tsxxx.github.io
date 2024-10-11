@@ -169,6 +169,21 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-67" value="不给分销员修改手机号是否可行？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="770" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-68" target="FmlOayXMHetRYe8K5XlL-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-68" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-69" target="FmlOayXMHetRYe8K5XlL-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-69" value="会员更改手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-71" value="分销员怎么变？" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1560" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
