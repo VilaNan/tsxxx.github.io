@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="89JacJXpggKfq_D61f6H">
-    <mxGraphModel dx="2261" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2043" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -199,8 +199,8 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-94" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="1670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-96" value="产生的影响：分销员手机号变更&lt;div&gt;不影响历史分销和分销&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1755" width="190" height="40" as="geometry" />
+        <mxCell id="FmlOayXMHetRYe8K5XlL-96" value="产生的影响：分销员手机号变更&lt;div&gt;不影响历史分销和分销&lt;/div&gt;&lt;div&gt;不能这么改，有问题&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1745" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FmlOayXMHetRYe8K5XlL-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FmlOayXMHetRYe8K5XlL-98" target="FmlOayXMHetRYe8K5XlL-99">
           <mxGeometry relative="1" as="geometry" />
@@ -247,8 +247,11 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-113" value="方案2&amp;nbsp; 不随手机号变更； 产生的影响： 多个分销员绑定同一个会员号，造成分销无法区分" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="2180" width="500" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-114" value="方案3&amp;nbsp; 不让分销员修改手机号；影响：若需要使用新手机号，必须先作废旧的分销员，同时无法使用新手机号查找以前的分销记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="25" y="2260" width="710" height="30" as="geometry" />
+        <mxCell id="FmlOayXMHetRYe8K5XlL-114" value="方案3&amp;nbsp; 不让分销员修改手机号；影响：若需要使用新手机号，必须先作废旧的分销员，同时无法使用新手机号查找以前的分销记录&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="2245" width="710" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-115" value="m1&amp;nbsp; 158&amp;nbsp; &amp;nbsp; -&amp;gt;&amp;nbsp; 158&amp;nbsp; -&amp;gt;m1&lt;div&gt;m1手机号改了&lt;br&gt;&lt;div&gt;&lt;div&gt;m1&amp;nbsp; &amp;nbsp;159&amp;nbsp; -&amp;gt;&amp;nbsp; &amp;nbsp;159 创建新分销员账户&amp;nbsp; -&amp;gt; m1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2380" width="310" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
