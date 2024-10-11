@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="89JacJXpggKfq_D61f6H">
-    <mxGraphModel dx="2043" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2796" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,7 +250,7 @@
         <mxCell id="FmlOayXMHetRYe8K5XlL-114" value="方案3&amp;nbsp; 不让分销员修改手机号；影响：若需要使用新手机号，必须先作废旧的分销员，同时无法使用新手机号查找以前的分销记录&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="25" y="2245" width="710" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FmlOayXMHetRYe8K5XlL-115" value="m1&amp;nbsp; 158&amp;nbsp; &amp;nbsp; -&amp;gt;&amp;nbsp; 158&amp;nbsp; -&amp;gt;m1&lt;div&gt;m1手机号改了&lt;br&gt;&lt;div&gt;&lt;div&gt;m1&amp;nbsp; &amp;nbsp;159&amp;nbsp; -&amp;gt;&amp;nbsp; &amp;nbsp;159 创建新分销员账户&amp;nbsp; -&amp;gt; m1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FmlOayXMHetRYe8K5XlL-115" value="会员1&amp;nbsp; 158&amp;nbsp; &amp;nbsp; -&amp;gt;&amp;nbsp; 158&amp;nbsp; -&amp;gt;会员1&lt;div&gt;m1手机号改了&lt;br&gt;&lt;div&gt;&lt;div&gt;会员1&amp;nbsp; &amp;nbsp;159&amp;nbsp; -&amp;gt;&amp;nbsp; &amp;nbsp;159 创建新分销员账户&amp;nbsp; -&amp;gt; 会员1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="2380" width="310" height="240" as="geometry" />
         </mxCell>
       </root>
