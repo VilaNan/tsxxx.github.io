@@ -251,7 +251,10 @@
           <mxGeometry x="25" y="2245" width="710" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FmlOayXMHetRYe8K5XlL-115" value="会员1&amp;nbsp; 158&amp;nbsp; &amp;nbsp; -&amp;gt;&amp;nbsp; 158&amp;nbsp; -&amp;gt;会员1&lt;div&gt;m1手机号改了&lt;br&gt;&lt;div&gt;&lt;div&gt;会员1&amp;nbsp; &amp;nbsp;159&amp;nbsp; -&amp;gt;&amp;nbsp; &amp;nbsp;159 创建新分销员账户&amp;nbsp; -&amp;gt; 会员1&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2380" width="310" height="240" as="geometry" />
+          <mxGeometry x="530" y="2380" width="310" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="FmlOayXMHetRYe8K5XlL-116" value="方案4： 会员号永远不变，只同步变化手机号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="2338" width="430" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
